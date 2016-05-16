@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\virtualanimal\virtualanimal\bin\Debug\virtualanimal.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\virtualanimal\virtualanimal\bin\Debug\virtualanimal.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\virtualanimal\virtualanimal\bin\Debug\virtualanimal.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\virtualanimal\virtualanimal\obj\Debug\virtualanimal.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\virtualanimal\virtualanimal\obj\Debug\virtualanimal.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\virtualanimal\virtualanimal\obj\Debug\virtualanimal.pdb
